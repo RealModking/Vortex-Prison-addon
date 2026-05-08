@@ -53,7 +53,7 @@ The addon includes a fully customizable prison mine system.
 ## 📦 Current Version
 
 ```txt
-v1.6.2
+v1.6.1.2
 ```
 
 ---
@@ -61,7 +61,7 @@ v1.6.2
 ## ✅ Supported Minecraft Versions
 
 ```txt
-Minecraft Bedrock v1.26.10+
+Minecraft Bedrock v1.26.20+
 ```
 
 ---
@@ -96,7 +96,7 @@ Feedback is appreciated and helps improve the addon.
 
 ## 📜 Changelog (Latest)
 
-### v1.6.2
+### v1.6.1.2
 
 * Added latest Bedrock support
 * Improved custom pickaxe system
