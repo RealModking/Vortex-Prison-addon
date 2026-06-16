@@ -6,8 +6,8 @@ A custom Minecraft Bedrock Prison Addon focused on progression, mining, enchantm
 
 ## ✨ Features
 
-* ⛏️ Custom prison mine system in development
-* 🪓 Custom player pickaxes in development
+* ⛏️ Custom prison mine system
+* 🪓 Custom player pickaxes
 * 📊 Blocks mined tracking
 * 💰 Economy & progression systems
 * 🎟️ Key and token systems
@@ -32,6 +32,8 @@ Every player gets a more personalized mining experience.
 * Blocks mined statistics
 * Custom progression systems
 * Upgrade support
+* Utility upgrades
+* Persistent player data
 
 ---
 
@@ -46,14 +48,16 @@ The addon includes a fully customizable prison mine system.
 * Mine teleport GUI
 * Auto reset support
 * Configurable mine sizes
-* Larger mines currently in development
+* Mine management system
+* Optimized mine resets
+* Larger mine support in development
 
 ---
 
 ## 📦 Current Version
 
 ```txt
-v1.6.1.2
+v1.6.1.3
 ```
 
 ---
@@ -81,7 +85,7 @@ Minecraft Bedrock v1.26.20+
 
 ## ⚠️ Alpha Status
 
-This addon is still actively being developed.
+This addon is actively being developed and updated.
 
 You may experience:
 
@@ -89,6 +93,7 @@ You may experience:
 * Balance changes
 * Experimental systems
 * Feature changes
+* Compatibility updates after Minecraft releases
 
 Feedback is appreciated and helps improve the addon.
 
@@ -96,26 +101,32 @@ Feedback is appreciated and helps improve the addon.
 
 ## 📜 Changelog (Latest)
 
-### v1.6.1.2
+### v1.6.1.3
 
-* Added latest Bedrock support
+* Updated compatibility for the latest Minecraft Bedrock update
 * Improved custom pickaxe system
-* Added blocks mined tracking
-* Improved mine systems
-* Fixed config saving issues
+* Improved player data handling
+* Added player name support on pickaxes
+* Improved blocks mined tracking
+* Improved mine systems and progression
+* Added backend support for larger mine sizes
+* Fixed various compatibility issues
 * Performance improvements
-* Bug fixes and stability updates
+* Stability improvements
+* General bug fixes
 
 ---
 
 ## 🛠️ Coming Soon
 
 * Bigger mine sizes
+* Additional mine upgrades
 * More progression systems
 * More enchantments
-* Additional customization
-* Performance improvements
-* More GUI systems
+* Additional customization options
+* New GUI improvements
+* More performance optimizations
+* Additional quality-of-life features
 
 ---
 
@@ -129,7 +140,7 @@ Join the Discord server for:
 * Bug reports
 * Suggestions
 * Alpha testing
-* Updates
+* Development updates
 
 ```txt
 https://discord.gg/D8Z4HyRT6t
@@ -157,4 +168,4 @@ https://mcpedl.com/prison-addon/#downloads
 
 Developed by Vortex Network
 
-Thank you to everyone supporting the addon and helping test new updates 🚀
+Thank you to everyone supporting the addon, reporting bugs, and helping test new updates. 🚀
